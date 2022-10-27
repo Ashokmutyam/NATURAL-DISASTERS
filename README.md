@@ -11,3 +11,19 @@ Interactive and responsive UI Has many features and visual innovative effects. H
 
 ##  About ChatBot 💬:
 Created a chat bot About Azure. Also available with app. "Azure ChatBot" looks like a professional bot where you can find (or) know information about "Microsoft Azure" . Bot contains information about Azure like i.e; history, of Azure and services etc.. we provided Gallery in home page to find more and also official website with links with innovative ideas ; go through it. Azure ChatBot useful for both learners and explorers. Main concept that my bot gives;About Azure,how it works, history, full forms and detailed view of Azure.
+
+## HOME PAGE
+![image](https://user-images.githubusercontent.com/114653764/198325066-dddf43d7-6ca5-401a-8caf-b30258552c00.png)
+
+## GALLERY PAGE
+![image](https://user-images.githubusercontent.com/114653764/198325471-985786ed-9077-4f9b-bc25-2a1d782387be.png)
+![image](https://user-images.githubusercontent.com/114653764/198325710-421f3710-1497-44ee-a7f9-b8b567970821.png)
+![image](https://user-images.githubusercontent.com/114653764/198325965-210ee674-f614-4972-aa30-d0952bddba57.png)
+![image](https://user-images.githubusercontent.com/114653764/198326203-0471cc36-12ff-4560-8762-2a71b2edee95.png)
+
+## FAQ
+![image](https://user-images.githubusercontent.com/114653764/198326423-d6bf6245-cd98-4422-851e-252982fb1921.png)
+![image](https://user-images.githubusercontent.com/114653764/198326632-50037729-49e9-4e6e-9a6a-c3e6a03e2d7d.png)
+
+## CONTACT US
+![image](https://user-images.githubusercontent.com/114653764/198326864-e735d1b9-8d92-4f26-aa1c-14f474119226.png)
